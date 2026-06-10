@@ -36,7 +36,7 @@ class JuegoAdivinanza:
                 # Aumenta el contador de intentos
                 self.intentos += 1
 
-                # Compara el número ingresado con el secreto
+                # Compara45 el número ingresado con el secreto
                 if numero < self.__numero_secreto:
                     print("Muy bajo")
 
